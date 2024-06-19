@@ -30,12 +30,12 @@ To play the Java Bingo game, follow these steps:
 
 3. **Compile the Java files**:
     ```bash
-    javac *.java
+    javac BingoGameUsingOOPsAndDS.java
     ```
 
 4. **Run the game**:
     ```bash
-    java BingoGame
+    java BingoGameUsingOOPsAndDS
     ```
 
 5. **Follow the on-screen instructions to play the game**.
